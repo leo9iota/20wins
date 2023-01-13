@@ -1,7 +1,7 @@
 ## 20 wins
 A simple CLI game written in shell
 
-## Language
+## 🛠️ Tech Stack
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
 </div>
